@@ -1,4 +1,4 @@
-## Student Result Visualization 📊
+## Student Result Visualization
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ The goal of this project is to simplify performance tracking through intuitive v
 
 - **Power BI** – For data modeling, dashboard design, and interactive visualizations
 
-## 👥 Intended Audience
+## Intended Audience
 
 This project is useful for:
 - School administrators and teachers
